@@ -1,4 +1,4 @@
-# Vividus Starter
+# Vividus Starter!
 
 The purpose of this repository is to help users start creating automated tests using Vividus.
 
