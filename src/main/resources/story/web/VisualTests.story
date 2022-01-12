@@ -1,9 +1,5 @@
 Description: Simple visual tests;
 
-Scenario: Visual test of a page
-Meta:
-    @rallyId 621157019849
-When I compare against baseline with `page`
 
 Scenario: Visual test of context element
 Meta:

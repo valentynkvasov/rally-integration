@@ -1,5 +1,6 @@
 Description: Simple story to check the page availability;
 
+
 Scenario: Open application under test
 Meta:
     @rallyId 621157019557
