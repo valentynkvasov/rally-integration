@@ -8,7 +8,7 @@
 **/bin
 *.iml
 *.ipr
-*.iws
+*.iwssdac
 **/.idea
 
 #Build Dirs#
